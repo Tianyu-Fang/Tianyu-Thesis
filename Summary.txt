@@ -1,0 +1,22 @@
+#FYP Summary#
+
+duplicate_output_indices_TwoBytes.ipynb -> duplicate_output_indices_TwoBytes.csv
+the unique output indices of each registers for two bytes without removing the duplicated indices
+
+unique output indices for each 2 bytes of LFSR registers.ipynb -> unique_output_indices_twoBytes.csv
+
+No Control 1000 keystream rounds.ipynb -> output_indices_1000.csv
+Generate the keystream for 1000 rounds
+
+Four_Byte.ipynb -> 4_byte_unique_output_indices.csv -> 4_byte_%s_result.csv
+Genearte the unique output indices and the unique pair values for each 4 bytes of LFSR registers.
+
+Moderate Control Pair Values.xlsx
+The pair values of two bytes
+
+Two_Byte_With_Duplicate.ipynb -> 2_byte_%s_result.csv
+output indices of each two bytes, can be used to detemine the target register within the two bytes
+
+
+
+
