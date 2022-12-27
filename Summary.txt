@@ -17,6 +17,8 @@ The pair values of two bytes
 Two_Byte_With_Duplicate.ipynb -> 2_byte_%s_result.csv
 output indices of each two bytes, can be used to detemine the target register within the two bytes
 
+https://github.com/Tianyu-Fang/Tianyu-Thesis
+
 
 
 
